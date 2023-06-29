@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+#### Oauth2 #### 이렇게 설정했는데도 깃허브에 올라가면 git캐시문제이다.
+application-oauth.properties
